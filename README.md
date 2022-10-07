@@ -77,7 +77,7 @@ The intent of this project is to get started with Open Source and make your firs
 
 - Click `Create Pull Request`
 
--
+
 
 ### WOW, Congratulations!!! You just got a step closer to completing your pull requests.:smiley:
 
