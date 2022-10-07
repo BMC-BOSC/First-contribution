@@ -88,6 +88,8 @@ The intent of this project is to get started with Open Source and make your firs
   
 
 - Contributors are encouraged to edit on same format while doing pull request at [`CONTRIBUTORS.md`](./CONTRIBUTORS.md) else your PR may lead to spam.
+Example:
+<img  src="./assets/example.png">
 
   
 
