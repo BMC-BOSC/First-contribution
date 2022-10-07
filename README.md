@@ -38,4 +38,4 @@ This is an event organized by BOSC (Birendra Open Source Club) and Birendra IT c
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
 
 
-# Don't forget to star :star: the 
+# Don't forget to star :star: the repository.
