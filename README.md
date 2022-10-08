@@ -95,6 +95,6 @@ Example:
 
 - Check your [eligibility](https://hacktoberfest.com/participation/#contributors) for swags
 
-  
+- For further details [Official site](https://hacktoberfest.com/participation/)
 
 # Don't forget to star :star: the repository.
