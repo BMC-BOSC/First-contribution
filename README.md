@@ -61,7 +61,7 @@ The intent of this project is to get started with Open Source and make your firs
 
 - Add your name, GitHub profile link and technology you work on, on [CONTRIBUTORS.md](./CONTRIBUTORS.md) :raising_hand_woman: :raising_hand_man:
 
-- `Commit your changes.
+- `Commit` your changes.
 
 - Navigate to menu item [`Pull requests`](https://github.com/Hacktoberfest-Nepal/Your-First-PR/pulls), click on [`New Pull Request`](https://github.com/BMC-BOSC/First-contribution/compare)
 
