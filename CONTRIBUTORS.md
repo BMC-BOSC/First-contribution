@@ -4,3 +4,4 @@
 |sn. | Full name | Technology|
 |----- | ------------------- | -----------------------|
 |1. | [Prabhat Amgain](https://github.com/Prabhat147) |Javascript, C++, React, Bootstrap|
+|2. | [Rajeshwari Baniya](https://github.com/Rajeshwari1-1) | Wordpress, CSS, Adobe Photoshop, Figma |
