@@ -1,14 +1,11 @@
 
-
-  
-
 # First-contribution
 
 Beginner friendly repository for individuals to participate in the Hacktoberfest 2022 event.
 
   
 
-## Introduction
+# Introduction
 
   
 
@@ -30,7 +27,7 @@ The intent of this project is to get started with Open Source and make your firs
 
   
 
-## Getting started
+# Getting started
 
   
 
@@ -50,7 +47,7 @@ The intent of this project is to get started with Open Source and make your firs
 
   
 
-## Creating a Pull Request
+# Creating a Pull Request
 
   
   
@@ -75,11 +72,11 @@ The intent of this project is to get started with Open Source and make your firs
 
 
 
-### WOW, Congratulations!!! You just got a step closer to completing your pull requests.:smiley:
+# WOW, Congratulations!!! You just got a step closer to completing your pull requests.:smiley:
 
   
 
-## To remember:
+# To remember:
 
   
 
